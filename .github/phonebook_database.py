@@ -1,3 +1,4 @@
+# David Stalmakov, 12/3/2025
 import sqlite3
 
 DB_NAME = "phonebook.db"

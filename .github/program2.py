@@ -1,4 +1,4 @@
-# David Stalmakov, 12/3/2025
+# David Stalmakov, 12/3/2025.
 # Cities Database
 # This program displays the information from the created cities file
 import sqlite3

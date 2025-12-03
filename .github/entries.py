@@ -1,4 +1,4 @@
-# David Stalmakov, 12/3/2025
+# David Stalmakov, 12/3/2025.
 # Program 4
 import sqlite3
 
